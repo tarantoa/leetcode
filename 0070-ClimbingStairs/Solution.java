@@ -16,6 +16,6 @@ class Solution {
             prevStep = total;
         }
 
-        return total;
+        return totalSteps;
     }
 }
